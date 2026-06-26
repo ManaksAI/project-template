@@ -1,12 +1,12 @@
 # Project Template
 
 Starter template that wires every new project into the standard SDLC pipeline
-([manaksu/sdlc-templates](https://github.com/manaksu/sdlc-templates)).
+([ManaksAI/sdlc-templates](https://github.com/ManaksAI/sdlc-templates)).
 
 ## Start a new project from this template
 
 ```bash
-gh repo create my-new-project --private --template manaksu/project-template --clone
+gh repo create my-new-project --private --template ManaksAI/project-template --clone
 cd my-new-project
 ```
 

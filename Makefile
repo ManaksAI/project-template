@@ -1,5 +1,5 @@
 # Standard SDLC entrypoints — the SAME commands run locally and in CI.
-# The central pipeline (manaksu/sdlc-templates) calls these targets.
+# The central pipeline (ManaksAI/sdlc-templates) calls these targets.
 #
 # PROJECT_TYPE is auto-detected, or set it explicitly:  make lint PROJECT_TYPE=python
 # Targets that don't apply to a project are harmless no-ops, never errors.
